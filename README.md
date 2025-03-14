@@ -21,10 +21,7 @@ This project is a Fake News Detection application built with a React frontend an
 ## Installation
 
 ### Backend (Flask)
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/akkena-jayasri/Fake-News-Detection.git
-   cd Fake-News-Detection
+- Clone the repository: git clone https://github.com/akkena-jayasri/Fake-News-Detection.git
 - Add a python file that implements the Flask-based API to connect with the frontend which also handles data preprocessing and classification logic.
 - Verify the backend is running: Open your web browser and navigate to http://127.0.0.1:5000. You should see a message indicating that the Fake News Detection API is running.
 
