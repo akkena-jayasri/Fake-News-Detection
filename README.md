@@ -21,7 +21,7 @@ This project is a Fake News Detection application built with a React frontend an
 ## Installation
 
 ### Backend (Flask)
-- Clone the repository:
+1. Clone the repository:
    ```sh
    git clone https://github.com/akkena-jayasri/Fake-News-Detection.git
    cd Fake-News-Detection
